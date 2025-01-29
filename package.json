@@ -1,0 +1,16 @@
+{
+    "name": "fnotes",
+    "version": "1.0.0",
+    "description": "fNotes é uma aplicação simples de anotações que utiliza localStorage para armazenar notas de forma persistente no navegador. Permite criar, editar e excluir notas, sendo ideal para organização e anotações rápidas.",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Fernando Caetano",
+    "license": "ISC",
+    "dependencies": {
+        "jsdom": "^26.0.0"
+    }
+}
